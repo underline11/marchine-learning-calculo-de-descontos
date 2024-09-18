@@ -1,0 +1,11 @@
+# Leitura do valor de compra
+valor_compra = float(input("Digite o valor da compra: R$"))
+
+# Verificação e Aplicação do desconto
+if valor_compra > 100:
+    valor_final = valor_compra * 0,85  # Aplica 15% de desconto
+else:
+    valor_final = valor_compra
+
+# Exibição do valor final
+print(f"Valor final a ser pago: R${valor_final:.2f}")
