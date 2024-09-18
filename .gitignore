@@ -1,0 +1,37 @@
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environment files
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Local configuration files
+*.local
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
