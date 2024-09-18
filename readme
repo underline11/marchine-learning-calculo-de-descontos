@@ -1,0 +1,22 @@
+# Cálculo de Desconto
+
+## Descrição
+
+Este projeto é uma aplicação simples para calcular descontos em produtos com base em uma porcentagem fornecida. O usuário pode inserir o preço original de um produto e a porcentagem de desconto, e o programa calculará o preço com desconto.
+
+## Funcionalidades
+
+- Entrada do preço original do produto
+- Entrada da porcentagem de desconto
+- Cálculo do preço com desconto
+- Exibição do preço final após o desconto
+
+## Tecnologias
+
+- Python 3.x
+
+## Como Usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/calculo-desconto.git
